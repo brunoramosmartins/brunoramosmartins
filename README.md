@@ -6,11 +6,11 @@ Recently, I have been studying Artificial Intelligence through the courses offer
 
 A fun fact about me is that I was a math teacher for elementary school for approximately 10 years, which demonstrates my passion for challenges and problem-solving.
 
-Olá! Meu nome é Bruno Ramos Martins, 
-Sou formado em Matemática e atualmente estou cursando mestrando em Matemática com foco em Probabilidade e Pensamento Computacional. 
-Além disso, estou trabalhando com análise de dados e gestão de produtos digitais.
-Atualmente, tenho estudado Inteligência Artificial através dos cursos oferecidos pelo DeepLearning, os quais tenho achado incríveis tanto em relação ao assunto quanto às aulas. 
-Meu objetivo é colaborar em projetos de Inteligência Artificial, com ênfase em Machine Learning e Deep Learning.
+Olá! Meu nome é Bruno Ramos Martins.
+Sou formado em Matemática e atualmente estou cursando mestrado em Matemática com foco em Probabilidade e Pensamento Computacional. Além disso, estou trabalhando com análise de dados e gestão de produtos digitais.
+
+Atualmente, tenho estudado Inteligência Artificial através dos cursos oferecidos pelo DeepLearning, os quais tenho achado incríveis tanto em relação ao assunto quanto às aulas. Meu objetivo é colaborar em projetos de Inteligência Artificial, com ênfase em Machine Learning e Deep Learning.
+
 Um fato curioso sobre mim é que fui professor de matemática para o ensino básico por aproximadamente 10 anos, o que demonstra minha paixão por desafios e por resolver problemas.
 
 <!--
