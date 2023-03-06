@@ -11,7 +11,7 @@ Sou formado em Matemática e atualmente estou cursando mestrando em Matemática 
 Além disso, estou trabalhando com análise de dados e gestão de produtos digitais.
 Atualmente, tenho estudado Inteligência Artificial através dos cursos oferecidos pelo DeepLearning, os quais tenho achado incríveis tanto em relação ao assunto quanto às aulas. 
 Meu objetivo é colaborar em projetos de Inteligência Artificial, com ênfase em Machine Learning e Deep Learning.
-Um fato curioso sobre mim é que fui professor de matemática para o ensino básico por aproximadamente 10 anos, o que demonstra minha paixão por desafios e por resolver problemas."
+Um fato curioso sobre mim é que fui professor de matemática para o ensino básico por aproximadamente 10 anos, o que demonstra minha paixão por desafios e por resolver problemas.
 
 <!--
 **brunoramosmartins/brunoramosmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
