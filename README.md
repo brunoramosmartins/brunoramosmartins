@@ -13,6 +13,13 @@ Atualmente, tenho estudado Inteligência Artificial através dos cursos oferecid
 
 Um fato curioso sobre mim é que fui professor de matemática para o ensino básico por aproximadamente 10 anos, o que demonstra minha paixão por desafios e por resolver problemas.
 
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunoramosmartins)](https://github.com/brunoramosmartins)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact)](https://github.com/brunoramosmartins)
+
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=brunoramosmartins.brunoramosmartins)](https://www.yushi.dev/) -->
 <!--
 **brunoramosmartins/brunoramosmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
