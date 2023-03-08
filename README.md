@@ -12,11 +12,18 @@ Sou formado em Matemática e atualmente estou cursando mestrado em Matemática c
 
 ## 🌱 I’m currently learning
 
+- DataScience
+- Machine Learning
+- Deep Learning
+
 Atualmente, tenho estudado Inteligência Artificial através dos cursos oferecidos pelo DeepLearning, os quais tenho achado incríveis tanto em relação ao assunto quanto às aulas.
 
 ## 👯 I’m looking to collaborate on 
 
-Meu objetivo é colaborar em projetos de Inteligência Artificial, com ênfase em Machine Learning e Deep Learning.
+- Projeto relacionados com DataScience
+- AI
+- Machine Learning
+- Deep Learning
 
 ## ⚡ Fun fact
 
