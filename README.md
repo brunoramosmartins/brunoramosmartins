@@ -12,7 +12,7 @@ Sou formado em Matemática e atualmente estou cursando mestrado em Matemática c
 
 ## 🌱 I’m currently learning
 
-- DataScience
+- Data Science
 - Machine Learning
 - Deep Learning
 
@@ -20,7 +20,8 @@ Atualmente, tenho estudado Inteligência Artificial através dos cursos oferecid
 
 ## 👯 I’m looking to collaborate on 
 
-- Projeto relacionados com DataScience
+ Projeto relacionados com 
+- Data Science
 - AI
 - Machine Learning
 - Deep Learning
