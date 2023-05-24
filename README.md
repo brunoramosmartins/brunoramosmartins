@@ -18,7 +18,7 @@ Sou formado em Matemática e atualmente estou cursando mestrado em Matemática c
 
 Atualmente, tenho estudado Inteligência Artificial através dos cursos oferecidos pelo DeepLearning, os quais tenho achado incríveis tanto em relação ao assunto quanto às aulas.
 
-## 👯 I’m looking to collaborate on 
+## I’m looking to collaborate on 
 
  Projeto relacionados com 
 - Data Science
