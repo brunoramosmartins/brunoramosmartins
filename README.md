@@ -42,16 +42,10 @@ Airflow · dbt · Git · Docker · BigQuery · Power BI
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=brunoramosmartins&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=brunoramosmartins&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
 
 ---
 
-## Suggested Pinned Projects
-
-- Analytics case study (pipeline + executive insights)  
-- ML project with simple deployment (API or batch)  
-- dbt/Airflow data pipeline  
-- Product metrics dashboard  
 
