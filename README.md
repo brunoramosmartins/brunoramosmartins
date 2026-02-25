@@ -1,53 +1,57 @@
-### 🤝 Connect with me:
+# Bruno Martins
 
-<a href="https://www.linkedin.com/in/bruno-ramos-martins-22a6a61a0/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Bruno Ramos Martins | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/bramosm/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Bruno Ramos | Instagram" width="21px"/></a>
-</br>
-- 💬 Qualquer duvida, ou necessidade de contato, pode enviar uma mensagem em alguma dessas redes sociais.
+Data Scientist with a background in Mathematics and experience in analytics for digital products.  
+Current interests in applied Machine Learning, experimentation, and probabilistic modeling.
 
-## 🔭 I'm currently working on
+- Focus: Data Science, Machine Learning, Analytics Engineering
+- Background: 10+ years teaching mathematics → transition to data and product analytics
+- Academic interest: future specialization in Probability and AI
 
-Sou formado em Matemática e atualmente estou cursando mestrado em Matemática com foco em Probabilidade e Pensamento Computacional. Além disso, estou trabalhando com análise de dados e gestão de produtos digitais.
+---
 
+## Tech Stack
 
-## 🌱 I’m currently learning
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![SQL](https://img.shields.io/badge/SQL-Analytics-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-orange)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-PyTorch-red)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-dbt%20%7C%20Airflow-yellow)
+![Cloud](https://img.shields.io/badge/Cloud-BigQuery-lightgrey)
+![Visualization](https://img.shields.io/badge/Visualization-PowerBI-purple)
 
-- Data Science
-- Machine Learning
-- Deep Learning
+Python · SQL · Pandas · NumPy · Scikit-learn · PyTorch  
+Airflow · dbt · Git · Docker · BigQuery · Power BI  
 
-Atualmente, tenho estudado Inteligência Artificial através dos cursos oferecidos pelo DeepLearning, os quais tenho achado incríveis tanto em relação ao assunto quanto às aulas.
+---
 
-## I’m looking to collaborate on 
+## Current Focus
 
- Projeto relacionados com 
-- Data Science
-- AI
-- Machine Learning
-- Deep Learning
+- End-to-end Machine Learning models  
+- Product experimentation and metrics  
+- Feature engineering and data pipelines  
+- Studies in AI and probabilistic foundations  
 
-## ⚡ Fun fact
+---
 
-Um fato curioso sobre mim é que fui professor de matemática para o ensino básico por aproximadamente 10 anos, o que demonstra minha paixão por desafios e por resolver problemas.
+## Contact
 
-## 📈 GitHub Stats 
+- LinkedIn: https://www.linkedin.com/in/bruno-ramos-martins-22a6a61a0/  
+- Instagram: https://www.instagram.com/bramosm/  
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brunoramosmartins)](https://github.com/brunoramosmartins)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact)](https://github.com/brunoramosmartins)
+## GitHub Stats
 
-<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=brunoramosmartins.brunoramosmartins)](https://www.yushi.dev/) -->
-<!--
-**brunoramosmartins/brunoramosmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Stats](https://github-readme-stats.vercel.app/api?username=brunoramosmartins&show_icons=true&hide_border=true)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Suggested Pinned Projects
+
+- Analytics case study (pipeline + executive insights)  
+- ML project with simple deployment (API or batch)  
+- dbt/Airflow data pipeline  
+- Product metrics dashboard  
+
