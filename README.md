@@ -42,9 +42,25 @@ Airflow · dbt · Git · Docker · BigQuery · Power BI
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=brunoramosmartins&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=brunoramosmartins&show_icons=true&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=brunoramosmartins&show_icons=true&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunoramosmartins&show_icons=true&hide_border=true" />
+</picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact&theme=github_dark&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact&hide_border=true" />
+</picture>
 
 ---
 
