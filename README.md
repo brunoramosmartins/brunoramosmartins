@@ -17,10 +17,10 @@ Current interests in applied Machine Learning, experimentation, and probabilisti
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-PyTorch-red)
 ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-dbt%20%7C%20Airflow-yellow)
 ![Cloud](https://img.shields.io/badge/Cloud-BigQuery-lightgrey)
-![Visualization](https://img.shields.io/badge/Visualization-PowerBI-purple)
+
 
 Python · SQL · Pandas · NumPy · Scikit-learn · PyTorch  
-Airflow · dbt · Git · Docker · BigQuery · Power BI  
+Airflow · dbt · Git · Docker · BigQuery 
 
 ---
 
