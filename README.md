@@ -68,10 +68,10 @@ Active Projects
 2023 │  Fraud Prevention Analyst LATAM
      │  AI agents · AWS · agentic orchestration
      │
-2022 │  Career transition into Data Science
+2021 │  Career transition into Data Science
      │  Analytics engineering · product metrics · experimentation
      │
-2013 │  Mathematics Teacher — 9 years
+2012 │  Mathematics Teacher — 9 years
      │  Secondary education · formal reasoning · structured thinking
      │
      └─ Bachelor's in Mathematics
@@ -99,9 +99,9 @@ Active Projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoramosmartins&show_icons=true&theme=default&hide_border=true&title_color=1d3557&icon_color=457b9d&text_color=1c1c1c&bg_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoramosmartins&show_icons=true&hide_border=true&title_color=1d3557&icon_color=457b9d&text_color=1c1c1c&bg_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact&hide_border=true&title_color=1d3557&text_color=1c1c1c&bg_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact&hide_border=true&title_color=1d3557&text_color=1c1c1c&bg_color=ffffff&langs_count=6)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=brunoramosmartins&theme=default&hide_border=true&ring=1d3557&fire=457b9d&currStreakLabel=1d3557)
 
