@@ -63,18 +63,25 @@ Active Projects
 ## Career Timeline
 
 ```
-2025 │  ML Engineer focus · RAG · End-to-end ML Pipeline · Portfolio
-     │
-2023 │  Fraud Prevention Analyst LATAM
-     │  AI agents · AWS · agentic orchestration
-     │
-2021 │  Career transition into Data Science
-     │  Analytics engineering · product metrics · experimentation
-     │
-2012 │  Mathematics Teacher — 9 years
-     │  Secondary education · formal reasoning · structured thinking
-     │
-     └─ Bachelor's in Mathematics
+2024 – present │  Mercado Livre — Fraud Prevention Analyst LATAM
+               │  AI agents · AWS · chargeback & fraud risk · POINT (acquiring)
+               │
+2023 – present │  DeepLearning.AI — Mentor & Tester
+               │  TensorFlow Specialization · CV · NLP · Transfer Learning
+               │
+2023 – 2024    │  B3 — Data Analyst, Statistical Modeling
+               │  Market surveillance · Python · SQL · SAS · volatility & pattern analysis
+               │
+2023           │  Itaú Unibanco — Data Analytics Intern (Mestrado Summer)
+               │  Digital product metrics · Python · Alteryx · Tableau
+               │
+2022 – 2024    │  IFSP — Professional Master's in Mathematics
+               │  Stricto Sensu · probabilistic foundations
+               │
+2014 – 2022    │  Mathematics Teacher — 9 years
+               │  Secondary education · structured reasoning · USP graduate
+               │
+2013 – 2017    └─ Universidade de São Paulo — Bachelor's in Mathematics
 ```
 
 > The teaching background is not incidental. Nine years of translating abstract structure
@@ -99,9 +106,9 @@ Active Projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoramosmartins&show_icons=true&hide_border=true&title_color=1d3557&icon_color=457b9d&text_color=1c1c1c&bg_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunoramosmartins&show_icons=true&theme=default&hide_border=true&title_color=1d3557&icon_color=457b9d&text_color=1c1c1c&bg_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact&hide_border=true&title_color=1d3557&text_color=1c1c1c&bg_color=ffffff&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramosmartins&layout=compact&hide_border=true&title_color=1d3557&text_color=1c1c1c&bg_color=ffffff)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=brunoramosmartins&theme=default&hide_border=true&ring=1d3557&fire=457b9d&currStreakLabel=1d3557)
 
